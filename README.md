@@ -70,4 +70,6 @@ export default defineConfig([
     },
   },
 ])
-```
+```## Chromatic
+Storybook published via Chromatic.
+
