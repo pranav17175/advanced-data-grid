@@ -1,0 +1,14 @@
+:root {
+  /* colors */
+  --color-bg: 0 0% 100%;
+  --color-border: 220 13% 91%;
+  --color-text: 222 47% 11%;
+
+  /* spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 12px;
+
+  /* sizing */
+  --cell-height: 36px;
+}
