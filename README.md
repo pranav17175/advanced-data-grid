@@ -1,3 +1,28 @@
+# Advanced Data Grid
+
+An advanced, reusable Data Grid UI component built from scratch using **React**, **TypeScript**, **Tailwind CSS**, and **Storybook**.
+
+## 🔗 Links
+
+**GitHub Repository:**  
+https://github.com/pranav-bits-04/advanced-data-grid
+
+**Storybook Preview (Chromatic):**  
+https://698896fb2e38c680605c9c1c-jciudbrico.chromatic.com/
+
+## 🛠 Tech Stack
+- React
+- TypeScript
+- Tailwind CSS
+- Storybook
+- Vite
+
+## ✅ Assignment Notes
+- UI component built completely from scratch  
+- No pre-built UI libraries used  
+- Component-driven development using Storybook  
+- Deployed via Chromatic
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
